@@ -1,0 +1,27 @@
+{
+  "name": "nvalt-settings",
+  "version": "1.0.0",
+  "description": "Personal nvALT settings",
+  "main": "template.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/p-herbert/nvALT-settings.git"
+  },
+  "keywords": [
+    "nvALT"
+  ],
+  "author": "Peter Herbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-herbert/nvALT-settings/issues"
+  },
+  "homepage": "https://github.com/p-herbert/nvALT-settings#readme",
+  "dependencies": {
+    "highlight.js": "^9.12.0",
+    "jquery": "file:jquery",
+    "mathjax": "file:mathjax"
+  }
+}
